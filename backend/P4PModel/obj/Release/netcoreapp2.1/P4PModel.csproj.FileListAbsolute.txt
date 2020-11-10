@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\bin\Release\netcoreapp2.1\P4PModel.deps.json
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\bin\Release\netcoreapp2.1\P4PModel.runtimeconfig.json
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\bin\Release\netcoreapp2.1\P4PModel.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\bin\Release\netcoreapp2.1\P4PModel.dll
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\bin\Release\netcoreapp2.1\P4PModel.pdb
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Release\netcoreapp2.1\P4PModel.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Release\netcoreapp2.1\P4PModel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Release\netcoreapp2.1\P4PModel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Release\netcoreapp2.1\P4PModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Release\netcoreapp2.1\P4PModel.dll
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Release\netcoreapp2.1\P4PModel.pdb
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Release\netcoreapp2.1\P4PModel.genruntimeconfig.cache

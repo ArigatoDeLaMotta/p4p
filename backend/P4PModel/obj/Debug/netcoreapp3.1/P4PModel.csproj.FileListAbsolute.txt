@@ -1,0 +1,17 @@
+C:\Users\badillaar\Desktop\novasis\p4p\fuentes\backend\P4PModel\bin\Debug\netcoreapp3.1\P4PModel.deps.json
+C:\Users\badillaar\Desktop\novasis\p4p\fuentes\backend\P4PModel\bin\Debug\netcoreapp3.1\P4PModel.dll
+C:\Users\badillaar\Desktop\novasis\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.AssemblyInfoInputs.cache
+C:\Users\badillaar\Desktop\novasis\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.AssemblyInfo.cs
+C:\Users\badillaar\Desktop\novasis\p4p\fuentes\backend\P4PModel\bin\Debug\netcoreapp3.1\P4PModel.pdb
+C:\Users\badillaar\Desktop\novasis\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.csproj.CoreCompileInputs.cache
+C:\Users\badillaar\Desktop\novasis\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.dll
+C:\Users\badillaar\Desktop\novasis\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.pdb
+C:\Users\badillaar\Desktop\novasis\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\bin\Debug\netcoreapp3.1\P4PModel.deps.json
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\bin\Debug\netcoreapp3.1\P4PModel.dll
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\bin\Debug\netcoreapp3.1\P4PModel.pdb
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.dll
+C:\Users\Administrator\Desktop\p4p\fuentes\backend\P4PModel\obj\Debug\netcoreapp3.1\P4PModel.pdb
